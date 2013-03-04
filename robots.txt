@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://zzamboni.github.com/octopresstest/sitemap.xml 
